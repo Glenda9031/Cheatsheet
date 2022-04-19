@@ -1,0 +1,27 @@
+* {
+    background-color: cyan;
+}
+
+h1 {
+    Font-weight: bold;
+    margin: 0 auto;
+}
+
+h2 {
+    Font-weight: bold;
+    margin: 0 auto;
+
+}
+
+thead {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    background-color:blueviolet;
+    border: 10px black solid;
+}
+
+.code {
+    background-color: white;
+    margin: 0 auto;
+}
