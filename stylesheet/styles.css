@@ -1,27 +1,36 @@
-* {
-    background-color: cyan;
+body {
+    background-color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
 h1 {
-    Font-weight: bold;
-    margin: 0 auto;
+    text-align: center;
+
 }
 
 h2 {
-    Font-weight: bold;
+    text-align: center;
+    color: rebeccapurple;
+
+}
+
+table {
+    border: 2px solid darkorchid;
+    width: 650px;
     margin: 0 auto;
 
 }
 
 thead {
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5px;
-    background-color:blueviolet;
-    border: 10px black solid;
+    background-color: plum;
+}
+
+td {
+    border-top: 1px solid orchid;
 }
 
 .code {
-    background-color: white;
-    margin: 0 auto;
+    font-family: monospace;
+    background-color: beige;
 }
